@@ -1,0 +1,40 @@
+/* Estilos para index.html */
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px;
+  }
+  
+  header h1 {
+    color: #004080;
+  }
+  
+  .btn {
+    background-color: #008cba;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  /* Estilos para formulario.html */
+  h2 {
+    color: #006600;
+    text-align: center;
+  }
+  
+  form {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background: #e0ffe0;
+    border-radius: 10px;
+  }
+  
+  fieldset {
+    border: 2px solid #66cc66;
+    margin-bottom: 15px;
+    padding: 10px;
+  }
+  
